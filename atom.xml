@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Cursos Matehackers]]></title>
+  <link href="http://matehackers.github.com/atom.xml" rel="self"/>
+  <link href="http://matehackers.github.com/"/>
+  <updated>2012-11-07T02:00:19-02:00</updated>
+  <id>http://matehackers.github.com/</id>
+  <author>
+    <name><![CDATA[Mate]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Introdução a Programação Web com Ruby]]></title>
+    <link href="http://matehackers.github.com/blog/2012/11/06/curso-matehackers-de-programacao-web/"/>
+    <updated>2012-11-06T22:47:00-02:00</updated>
+    <id>http://matehackers.github.com/blog/2012/11/06/curso-matehackers-de-programacao-web</id>
+    <content type="html"><![CDATA[<p>O curso será dividido em duas etapas. A primeira será introdução, à partir da análise de um projeto pronto, de todos os aspectos envolvidos na programação de aplicativos Web, mas note que a definição de aplicativo Web é mais abrangente do que &#8216;website&#8217;. Em termos leigos, estaremos chamando de aplicativo Web qualquer programa que recebe &#8216;mensagens&#8217; no protocolo HTTP e responde com algum tipo de conteúdo e Vamos dissecar as várias etapas do processo. Vamos descobrir o papel do servidor, linguagem de programação, linguagens de marcação e estilo, scripts e banco-de-dados.</p>
+
+<p>Depois vamos aplicar o nosso entendimento construído na etapa anterior para projetar e implementar um sistema similar ao analisado, fazendo uso do framework Ruby on Rails. Espera-se que após o curso o participante seja capaz de aprender Rails mais facilmente, mas também de <strong>construir aplicativos web usando a tecnologia que mais lhe convém</strong>.</p>
+
+<h4>Ministrantes</h4>
+
+<ul>
+<li>Lucas Fialho Zawacki</li>
+<li>Guilherme Kruger Araújo</li>
+</ul>
+
+
+<h2>Pré-inscrição</h2>
+
+<p><a href="https://docs.google.com/spreadsheet/viewform?formkey=dEx3eFY0U3VISjdBcHp1X1RpcTItMUE6MQ">Aqui</a></p>
+
+<h2>Assuntos</h2>
+
+<ul>
+<li>Introdução à programação Web</li>
+<li>Frontend VS Backend</li>
+<li>Programadores, designers e administradores</li>
+<li>O que é um servidor Web? e HTTP?</li>
+<li>A tríplice: HTML, CSS, Javascript</li>
+<li>Onde entra a linguagem de programação na história?</li>
+<li>Ruby, Rails, Sinatra&#8230;</li>
+<li>Mão na massa</li>
+</ul>
+
+
+<h2>Slides</h2>
+
+<p>Em breve</p>
+
+<h2>Código</h2>
+
+<ul>
+<li>Em breve todo o código usado.</li>
+<li><a href="https://github.com/matehackers/matehackers.github.com">Repositório</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
