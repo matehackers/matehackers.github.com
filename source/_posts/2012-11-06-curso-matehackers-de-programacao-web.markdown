@@ -21,14 +21,21 @@ Depois vamos aplicar o nosso entendimento construído na etapa anterior para pro
 
 ## Assuntos
 
-* Introdução à programação Web
+* What is Web?
 * Frontend VS Backend
 * Programadores, designers e administradores
 * O que é um servidor Web? e HTTP?
 * A tríplice: HTML, CSS, Javascript
+* Conteúdo Dyn vs Stat
 * Onde entra a linguagem de programação na história?
+* LAMP -> OSDL
 * Ruby, Rails, Sinatra...
-* Mão na massa
+  * Model View Controller
+  * Mão na massa
+* Passos seguintes
+  * REST
+  * Web Apps
+  * Mobile First
 
 ## Slides
 
@@ -38,3 +45,17 @@ Em breve
 
 * Em breve todo o código usado.
 * [Repositório](https://github.com/matehackers/matehackers.github.com)
+
+## Referências
+
+Show requests
+
+* <http://www.udacity.com/overview/Course/cs253/CourseRev/apr2012>
+* <http://www.udacity.com/wiki/CS253%20Unit%201>
+* <http://www.udacity.com/html_playground>
+* <http://htmldog.com/>
+* <http://efoundations.typepad.com/.shared/image.html?/photos/uncategorized/2007/09/25/http4xx_3.jpg>
+* RailsForZombies
+* JQueryAir
+
+## Glossário
