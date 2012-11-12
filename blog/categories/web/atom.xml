@@ -4,7 +4,7 @@
   <title><![CDATA[Category: web | Cursos Matehackers]]></title>
   <link href="http://matehackers.github.com/blog/categories/web/atom.xml" rel="self"/>
   <link href="http://matehackers.github.com/"/>
-  <updated>2012-11-07T02:00:19-02:00</updated>
+  <updated>2012-11-12T18:09:29-02:00</updated>
   <id>http://matehackers.github.com/</id>
   <author>
     <name><![CDATA[Mate]]></name>
@@ -37,14 +37,29 @@
 <h2>Assuntos</h2>
 
 <ul>
-<li>Introdução à programação Web</li>
+<li>What is Web?</li>
 <li>Frontend VS Backend</li>
 <li>Programadores, designers e administradores</li>
 <li>O que é um servidor Web? e HTTP?</li>
 <li>A tríplice: HTML, CSS, Javascript</li>
+<li>Conteúdo Dyn vs Stat</li>
 <li>Onde entra a linguagem de programação na história?</li>
-<li>Ruby, Rails, Sinatra...</li>
+<li>LAMP -> OSDL</li>
+<li>Ruby, Rails, Sinatra...
+
+<ul>
+<li>Model View Controller</li>
 <li>Mão na massa</li>
+</ul>
+</li>
+<li>Passos seguintes
+
+<ul>
+<li>REST</li>
+<li>Web Apps</li>
+<li>Mobile First</li>
+</ul>
+</li>
 </ul>
 
 
@@ -59,6 +74,23 @@
 <li><a href="https://github.com/matehackers/matehackers.github.com">Repositório</a></li>
 </ul>
 
+
+<h2>Referências</h2>
+
+<p>Show requests</p>
+
+<ul>
+<li><a href="http://www.udacity.com/overview/Course/cs253/CourseRev/apr2012">http://www.udacity.com/overview/Course/cs253/CourseRev/apr2012</a></li>
+<li><a href="http://www.udacity.com/wiki/CS253%20Unit%201">http://www.udacity.com/wiki/CS253%20Unit%201</a></li>
+<li><a href="http://www.udacity.com/html_playground">http://www.udacity.com/html_playground</a></li>
+<li><a href="http://htmldog.com/">http://htmldog.com/</a></li>
+<li><a href="http://efoundations.typepad.com/.shared/image.html?/photos/uncategorized/2007/09/25/http4xx_3.jpg">http://efoundations.typepad.com/.shared/image.html?/photos/uncategorized/2007/09/25/http4xx_3.jpg</a></li>
+<li>RailsForZombies</li>
+<li>JQueryAir</li>
+</ul>
+
+
+<h2>Glossário</h2>
 ]]></content>
   </entry>
   
