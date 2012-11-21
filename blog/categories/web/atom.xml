@@ -4,7 +4,7 @@
   <title><![CDATA[Category: web | Cursos Matehackers]]></title>
   <link href="http://matehackers.github.com/blog/categories/web/atom.xml" rel="self"/>
   <link href="http://matehackers.github.com/"/>
-  <updated>2012-11-12T18:09:29-02:00</updated>
+  <updated>2012-11-21T14:18:04-02:00</updated>
   <id>http://matehackers.github.com/</id>
   <author>
     <name><![CDATA[Mate]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Aprendendo Ruby]]></title>
+    <link href="http://matehackers.github.com/blog/2012/11/21/aprendendo-ruby/"/>
+    <updated>2012-11-21T11:00:00-02:00</updated>
+    <id>http://matehackers.github.com/blog/2012/11/21/aprendendo-ruby</id>
+    <content type="html"><![CDATA[<p>Ruby é uma linguagem relativamente popular hoje (no momento desta postagem está colocada em #10 no ranking <a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html">TIOBE</a>) e que é usada principalmente no escopo do desenvolvimento Web. Grande parte desta popularidade se deve ao <a href="">Ruby on Rails</a>, um framework que ajuda a acelerar o processo de construção de aplicativos web. Alguns sites famosos construídos usando Rails são <a href="">Github</a>, <a href="">Shopify</a> e <a href="">Groupon</a>.</p>
+
+<p>Muitas vezes ao falar com as pessoas eu noto alguma confusão sobre onde acaba o Ruby e onde começa o Rails, mas na realidade é muito simples (se você já é um programador) :</p>
+
+<ul>
+<li><strong>Ruby</strong> é uma linguagem de programação, isto quer dizer: ifs, elses, loops, variáveis, operações matemáticas e abstrações (funções, objetos, métodos, ...).</li>
+<li><strong>Rails</strong> é um conjunto de bibliotecas, classes, templates e boas práticas de programação <strong>para a linguagem Ruby</strong> todos otimizados para a tarefa de construir sites e/ou webservices, principalmente aqueles baseados em servir conteúdo dinâmico e guardar grandes volumes de dados (i.e. redes sociais, lojas online, etc...)</li>
+</ul>
+
+
+<p>Disto fica bem claro que se o seu interesse é construir aplicativos web com estas tecnologias você precisa aprender pelo menos o básico de Ruby. Esta postagem serve como um lugar para reunir bons cursos e referências para aprender Ruby por si só.</p>
+
+<h3>Iniciante</h3>
+
+<ul>
+<li><a href="http://www.codeschool.com/courses/try-ruby">Try Ruby</a>: Este é um guia simples que pode ser completado em poucos minutos e faz um tour pelos aspectos básicos da linguagem. Esta versão dentro do CodeSchool integra o que já era ótimo com o sistema divertido de ensino do site.</li>
+<li><a href="http://www.ruby-lang.org/en/documentation/quickstart/">Ruby In Twenty Minutes</a>: Do site oficial da linguagem, um outro tour rápido pelos aspectos da linguagem.</li>
+<li><a href="http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/">Ruby From Other Languages</a>: Um bom recurso para quem já programa em outras linguagens e gosta de aprender por analogia.</li>
+</ul>
+
+
+<h3>Intermediários</h3>
+
+<ul>
+<li><strong>Documentação Online e Irb</strong>: Antes de sair googlando toda e qualquer dúvida que você tem, dê uma olhada no <a href="http://www.ruby-doc.org/">ruby-doc.org</a>. Nele você encontra a documentação de todas as classes e métodos presentes por padrão no Ruby e uma lista de recursos parecida com esta. Para acelerar as coisas use o programa <a href="">irb</a> e teste imediatamente os comandos.</li>
+<li><a href="http://www.rubykoans.com/">Ruby Koans</a>: Aprenda Ruby resolvendo pequenos desafios na forma de casos de teste dentro de arquivos .rb. Siga as instruções no site para instalar e utilizar ou peça para um amigo que sabe a linguagem melhor acompanhar com você!</li>
+<li><a href="http://ruby-doc.org//docs/ProgrammingRuby/">Programming Ruby</a>: Uma cópia online da primeira edição do livro "Programming Ruby" escrito por Dave Thomas. Um guia bem legal para quem gosta de ler textos completos e detalhados e digerir bastante o conhecimento. Por ser a primeira edição pode estar um pouco desatualizado em partes, principalmente mais perto do fim onde se entra no assunto bibliotecas.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Introdução a Programação Web com Ruby]]></title>
