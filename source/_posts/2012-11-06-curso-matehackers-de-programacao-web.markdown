@@ -19,16 +19,15 @@ Depois vamos aplicar o nosso entendimento construído na etapa anterior para pro
 
 [Aqui](https://docs.google.com/spreadsheet/viewform?formkey=dEx3eFY0U3VISjdBcHp1X1RpcTItMUE6MQ)
 
-## Assuntos
+## Programa
 
 * What is Web?
 * Frontend VS Backend
 * Programadores, designers e administradores
 * O que é um servidor Web? e HTTP?
 * A tríplice: HTML, CSS, Javascript
-* Conteúdo Dyn vs Stat
+* Conteúdo Dinâmico vs Estático
 * Onde entra a linguagem de programação na história?
-* LAMP -> OSDL
 * Ruby, Rails, Sinatra...
   * Model View Controller
   * Mão na massa
