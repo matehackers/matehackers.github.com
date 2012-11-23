@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ruby | Cursos Matehackers]]></title>
   <link href="http://matehackers.github.com/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://matehackers.github.com/"/>
-  <updated>2012-11-21T14:30:30-02:00</updated>
+  <updated>2012-11-23T13:37:48-02:00</updated>
   <id>http://matehackers.github.com/</id>
   <author>
     <name><![CDATA[Mate]]></name>
@@ -14,13 +14,38 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Aprendendo Rails]]></title>
+    <link href="http://matehackers.github.com/blog/2012/11/21/aprendendo-rails/"/>
+    <updated>2012-11-21T14:20:00-02:00</updated>
+    <id>http://matehackers.github.com/blog/2012/11/21/aprendendo-rails</id>
+    <content type="html"><![CDATA[<p>Como explicado em <a href="">Aprendendo Ruby</a> o Ruby on Rails é um framework para a linguagem Ruby que facilita o desenvolvimento de sites com acesso a banco-de-dados e conteúdo dinâmico. Aqui está um apanhado de links bons para aprender mais sobre o assunto.</p>
+
+<h2>Iniciante</h2>
+
+<ul>
+<li><a href="http://railsforzombies.org/">Rails For Zombies</a></li>
+</ul>
+
+
+<h2>Intermediário</h2>
+
+<ul>
+<li><p><a href="http://guides.rubyonrails.org">Ruby on Rails Guides</a>: Desde de guias sobre assuntos muito simples como as <code>migrations</code>, até coisas mais complexas como</p></li>
+<li><p><a href="http://railscasts.com/">RailsCasts</a>:</p></li>
+<li><p><a href="http://www.railsapi.com/doc/rails-v3.2.6/">Rails API Docs</a>:</p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Aprendendo Ruby]]></title>
     <link href="http://matehackers.github.com/blog/2012/11/21/aprendendo-ruby/"/>
     <updated>2012-11-21T11:00:00-02:00</updated>
     <id>http://matehackers.github.com/blog/2012/11/21/aprendendo-ruby</id>
-    <content type="html"><![CDATA[<p>Ruby é uma linguagem relativamente popular hoje (no momento desta postagem está colocada em #10 no ranking <a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html">TIOBE</a>) e que é usada principalmente no escopo do desenvolvimento Web. Grande parte desta popularidade se deve ao <a href="">Ruby on Rails</a>, um framework que ajuda a acelerar o processo de construção de aplicativos web. Alguns sites famosos construídos usando Rails são <a href="">Github</a>, <a href="">Shopify</a> e <a href="">Groupon</a>.</p>
+    <content type="html"><![CDATA[<p>Ruby é uma linguagem relativamente popular hoje (no momento desta postagem está colocada em #10 no ranking <a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html">TIOBE</a>) e que é usada principalmente no escopo do desenvolvimento Web. Grande parte desta popularidade se deve ao <a href="http://rubyonrails.org">Ruby on Rails</a>, um framework que ajuda a acelerar o processo de construção de aplicativos web. Alguns sites famosos construídos usando Rails são <a href="http://github.com">Github</a>, <a href="http://shopify.com">Shopify</a> e <a href="http://groupon.com">Groupon</a>.</p>
 
-<p>Muitas vezes ao falar com as pessoas eu noto alguma confusão sobre onde acaba o Ruby e onde começa o Rails, mas na realidade é muito simples (se você já é um programador) :</p>
+<p>Muitas vezes ao falar com as pessoas eu noto alguma confusão sobre onde acaba o Ruby e onde começa o Rails, mas na realidade é muito simples (se você já é um programador):</p>
 
 <ul>
 <li><strong>Ruby</strong> é uma linguagem de programação, isto quer dizer: ifs, elses, loops, variáveis, operações matemáticas e abstrações (funções, objetos, métodos, ...).</li>
@@ -71,63 +96,18 @@
 
 <p><a href="https://docs.google.com/spreadsheet/viewform?formkey=dEx3eFY0U3VISjdBcHp1X1RpcTItMUE6MQ">Aqui</a></p>
 
-<h2>Assuntos</h2>
-
-<ul>
-<li>What is Web?</li>
-<li>Frontend VS Backend</li>
-<li>Programadores, designers e administradores</li>
-<li>O que é um servidor Web? e HTTP?</li>
-<li>A tríplice: HTML, CSS, Javascript</li>
-<li>Conteúdo Dyn vs Stat</li>
-<li>Onde entra a linguagem de programação na história?</li>
-<li>LAMP -> OSDL</li>
-<li>Ruby, Rails, Sinatra...
-
-<ul>
-<li>Model View Controller</li>
-<li>Mão na massa</li>
-</ul>
-</li>
-<li>Passos seguintes
-
-<ul>
-<li>REST</li>
-<li>Web Apps</li>
-<li>Mobile First</li>
-</ul>
-</li>
-</ul>
-
-
 <h2>Slides</h2>
 
-<p>Em breve</p>
+<p><a href="https://github.com/downloads/matehackers/web-ruby/slides.pdf">https://github.com/downloads/matehackers/web-ruby/slides.pdf</a></p>
 
 <h2>Código</h2>
 
 <ul>
-<li>Em breve todo o código usado.</li>
 <li><a href="https://github.com/matehackers/matehackers.github.com">Repositório</a></li>
 </ul>
 
 
 <h2>Referências</h2>
-
-<p>Show requests</p>
-
-<ul>
-<li><a href="http://www.udacity.com/overview/Course/cs253/CourseRev/apr2012">http://www.udacity.com/overview/Course/cs253/CourseRev/apr2012</a></li>
-<li><a href="http://www.udacity.com/wiki/CS253%20Unit%201">http://www.udacity.com/wiki/CS253%20Unit%201</a></li>
-<li><a href="http://www.udacity.com/html_playground">http://www.udacity.com/html_playground</a></li>
-<li><a href="http://htmldog.com/">http://htmldog.com/</a></li>
-<li><a href="http://efoundations.typepad.com/.shared/image.html?/photos/uncategorized/2007/09/25/http4xx_3.jpg">http://efoundations.typepad.com/.shared/image.html?/photos/uncategorized/2007/09/25/http4xx_3.jpg</a></li>
-<li>RailsForZombies</li>
-<li>JQueryAir</li>
-</ul>
-
-
-<h2>Glossário</h2>
 ]]></content>
   </entry>
   
